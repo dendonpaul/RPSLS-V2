@@ -16,3 +16,7 @@
 - Socket.IO
 
 #### Don't forget to star the repo, if you enjoyed the game. :smiley:
+
+#### Credits
+
+- https://github.com/sassyecoder
