@@ -1,6 +1,6 @@
 # ROCK PAPER SCISSOR LIZARD SPOCK - Version 2
 
-![RPSLS](public/ssets/MetaImage.jpg)
+![RPSLS](public/assets/MetaImage.jpg)
 
 ## How to Play?
 
